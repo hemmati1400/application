@@ -1,0 +1,5 @@
+<resources>
+    <color name="status_bar_color">#F7F7F7</color>
+    <color name="splashscreen_bg">#424242</color>
+    <color name="bootsplash_background">#E7C56C</color>
+</resources>
